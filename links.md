@@ -13,7 +13,11 @@ Not too different from the step-by-step tutorial on how to install VirtualBox fr
 * [Vim Crash Course For Beginners](https://www.youtube.com/watch?v=jXud3JybsG4) --- 
 Very good supplementary tutorial on how to use VIM. Because of it, I can finally exit VIM without turning off my VM :D
 
-* 
+* [Zenbleed (CVE-2023-20593)](https://www.youtube.com/watch?v=9EY_9KtxyPg)
+Interesting topic about exploitation on AMD CPU's weakness. Using a very short assembly code to be able to leak server memory from other customer (I don't really understand what this means, but it sounds terrifying).
+
+* [The Discovery of Zenbleed ft. Tavis Ormandy](https://www.youtube.com/watch?v=neWc0H1k2Lc)
+How Zenbleed was discovered, explaining from who the founder is, the fundamental behind the exploitation, and finally putting all the pieces together.
 
 <br>
 <hr>
