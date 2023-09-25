@@ -19,5 +19,20 @@ Interesting topic about exploitation on AMD CPU's weakness. Using a very short a
 * [The Discovery of Zenbleed ft. Tavis Ormandy](https://www.youtube.com/watch?v=neWc0H1k2Lc)
 How Zenbleed was discovered, explaining from who the founder is, the fundamental behind the exploitation, and finally putting all the pieces together.
 
+* [Files & File Systems: Crash Course Computer Science #20](https://www.youtube.com/watch?v=KN8YgJnShPM)
+Basic of file and file systems. Beginner friendly explanation that explains everything from the fundamentals with simple yet very detailed explanations. I would recommend everyone to watch this video to watch this video to understand the basics of file system.
+
+* [What is RAID 0, 1, 2, 3, 4, 5, 6 and 10 (1+0)?](https://www.youtube.com/watch?v=wTcxRObq738)
+Clear and concise introduction to what RAID is. Starting from explaining RAID 0 about it's difference from normal file storing system, then gradually explaning to 1, 2, 3, etc. Really helpful to get a gist about what RAID really is.
+
+* [The best RAID for performance and redundancy](https://www.promax.com/blog/the-best-raid-for-performance-and-redundancy)
+Simple explanation with excellent visuals about the requirement to setup a certain RAID level. It helped me a lot on answering the questions that are raised in the class.
+
+* [Simple Makefile Tutorial](https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/)
+Helped me a lot on the pop quiz.
+
+* [Copying, Moving, and Renaming Files and Directories](https://ftp.kh.edu.tw/Linux/Redhat/en_6.2/doc/gsg/s1-managing-working-with-files.htm#)
+Also helped me a lot on pop quiz.
+
 <br>
 <hr>
