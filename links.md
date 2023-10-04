@@ -34,5 +34,8 @@ Helped me a lot on the pop quiz.
 * [Copying, Moving, and Renaming Files and Directories](https://ftp.kh.edu.tw/Linux/Redhat/en_6.2/doc/gsg/s1-managing-working-with-files.htm#)
 Also helped me a lot on pop quiz.
 
+* [How SUDO on Linux was HACKED! // CVE-2021-3156](https://youtu.be/TLa2VqcGGEQ?si=8bFw5JHiuhHVm0kM)
+I don't know what to fill for this week since there are no quiz.
+
 <br>
 <hr>
