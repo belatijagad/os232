@@ -37,3 +37,9 @@ ZCZC W04 240 L14 Weekly Assignment #4
 ZCZC W04 120 L70 TP 1 SDA
 ZCZC W04 15 L25 Pop Quiz Week 4 C
 ZCZC W04 45 L05 Pop Quiz Week 4 Finding Whats Wrong With My File
+ZCZC W05 100 L02 OS Class
+ZCZC W05 100 L02 OS Class
+ZCZC W05 30 L05 Studying for Quiz
+ZCZC W05 15 L05 Quiz
+ZCZC W05 240 L15 Weekly Assignment #5 with Sorting Memories
+ZCZC W05 120 L01 Pop Quiz

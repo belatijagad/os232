@@ -37,5 +37,11 @@ Also helped me a lot on pop quiz.
 * [How SUDO on Linux was HACKED! // CVE-2021-3156](https://youtu.be/TLa2VqcGGEQ?si=8bFw5JHiuhHVm0kM)
 I don't know what to fill for this week since there are no quiz.
 
+* [16.2.2 Basics of Virtual Memory](https://www.youtube.com/watch?v=8yO2FBBfaB0)
+Introductory video that explains what virtual memory is. I watch it for the quiz.
+
+* [21.2.4 Shared Memory & Caches](https://www.youtube.com/watch?v=IbKCGrVGpco)
+Introductory video that explains what shared memory is and what cache is. I watch it for the quiz.
+
 <br>
 <hr>
