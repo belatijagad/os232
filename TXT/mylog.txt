@@ -43,3 +43,10 @@ ZCZC W05 30 L05 Studying for Quiz
 ZCZC W05 15 L05 Quiz
 ZCZC W05 240 L15 Weekly Assignment #5 with Sorting Memories
 ZCZC W05 120 L01 Pop Quiz
+ZCZC W06 1440 L05 Studying for midterms
+ZCZC W06 100 L02 OS Class
+ZCZC W06 100 L02 OS Class
+ZCZC W06 120 L02 Studying for Quiz
+ZCZC W06 10 L02 Quiz
+ZCZC W06 240 L16 Weekly Assignment #6
+ZCZC W06 60 L02 Pop Quiz

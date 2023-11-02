@@ -43,5 +43,13 @@ Introductory video that explains what virtual memory is. I watch it for the quiz
 * [21.2.4 Shared Memory & Caches](https://www.youtube.com/watch?v=IbKCGrVGpco)
 Introductory video that explains what shared memory is and what cache is. I watch it for the quiz.
 
+* [Previous OS Midterms](https://os.vlsm.org/#idx04)
+My source for studying for my OS midterms, in the end I got 7.9/11.11 score which is quite satisfying.
+
+* [Allocation Methods (OS)](https://www.youtube.com/watch?v=B1_er2nGKao&t=770s)
+My source for studying file allocation methods for Week 5 problem preparation.
+
+
+
 <br>
 <hr>
