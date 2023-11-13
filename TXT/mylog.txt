@@ -50,3 +50,7 @@ ZCZC W06 120 L02 Studying for Quiz
 ZCZC W06 10 L02 Quiz
 ZCZC W06 240 L16 Weekly Assignment #6
 ZCZC W06 60 L02 Pop Quiz
+ZCZC W07 100 L02 OS Class
+ZCZC W07 240 L17 Weekly Assignment #7
+ZCZC W07 60 L05 Pop Quiz
+ZCZC W07 100 L02 OS Class
