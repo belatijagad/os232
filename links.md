@@ -49,6 +49,11 @@ My source for studying for my OS midterms, in the end I got 7.9/11.11 score whic
 * [Allocation Methods (OS)](https://www.youtube.com/watch?v=B1_er2nGKao&t=770s)
 My source for studying file allocation methods for Week 5 problem preparation.
 
+* [Linux From Scratch Website](https://www.linuxfromscratch.org/lfs/view/11.1/)
+Very helpful website for guiding me through the LFS assignment.
+
+* [7. Chapter 5: Compiling a Cross-Toolchain - How to build Linux From Scratch (LFS) 12.0](https://www.youtube.com/watch?v=uggsnHSELos)
+Step by step detailed video guide on how to do the LFS assignment. Very very helpful.
 
 
 <br>
