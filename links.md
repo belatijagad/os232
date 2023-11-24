@@ -55,6 +55,11 @@ Very helpful website for guiding me through the LFS assignment.
 * [7. Chapter 5: Compiling a Cross-Toolchain - How to build Linux From Scratch (LFS) 12.0](https://www.youtube.com/watch?v=uggsnHSELos)
 Step by step detailed video guide on how to do the LFS assignment. Very very helpful.
 
+* [8. Chapter 6: Cross-Compiling Temporary Tools - How to build Linux From Scratch (LFS) 12.0](https://www.youtube.com/watch?v=D_N1kQPsQEk)
+Step by step detailed video guide on how to do the LFS assignment.
+
+* [9. Chapter 7: Entering Chroot and Building Additional Temporary Tools - How to build Linux From Scra](https://www.youtube.com/watch?v=y8uAMEK0FVc)
+Step by step detailed video guide on how to do the LFS assignment.
 
 <br>
 <hr>

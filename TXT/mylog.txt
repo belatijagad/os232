@@ -6,6 +6,7 @@ ZCZC W00 100 L02 OS Class
 ZCZC W00 100 L02 OS Class
 ZCZC W00 30 L05 Studying For Quiz
 ZCZC W00 10 L05 Quiz #1
+
 ZCZC W01 100 L02 OS Class
 ZCZC W01 120 L21 Setup VIM from Tutorial
 ZCZC W01 100 L02 OS Class
@@ -13,6 +14,7 @@ ZCZC W01 30 L05 Studying For Quiz
 ZCZC W01 10 L05 Quiz #2
 ZCZC W01 60 L21 Practicing VIM Hotkeys on the Tutorial
 ZCZC W01 240 L11 Weekly Assignment #1
+
 ZCZC W02 100 L02 OS Class
 ZCZC W02 100 L02 OS Class
 ZCZC W02 60 L32 Binge LiveOverflow's Cybersec Topics
@@ -20,6 +22,7 @@ ZCZC W02 30 L32 Reading on What Cyber Security Is
 ZCZC W02 15 Studying For Quiz
 ZCZC W02 10 L05 Quiz #3
 ZCZC W02 240 L12 Weekly Assignment #2
+
 ZCZC W03 100 L02 OS Class
 ZCZC W03 120 L13 Weekly Assignment #3
 ZCZC W03 60 L32 Studying About File System and Format
@@ -28,6 +31,7 @@ ZCZC W03 100 L02 OS Class
 ZCZC W03 30 L05 Studying for Quiz
 ZCZC W03 15 L05 Quiz #4
 ZCZC W03 60 L11 Doing Pop Quiz
+
 ZCZC W04 100 L02 OS Class
 ZCZC W04 120 L70 TP 1 SDA
 ZCZC W04 100 L02 OS Class
@@ -37,12 +41,14 @@ ZCZC W04 240 L14 Weekly Assignment #4
 ZCZC W04 120 L70 TP 1 SDA
 ZCZC W04 15 L25 Pop Quiz Week 4 C
 ZCZC W04 45 L05 Pop Quiz Week 4 Finding Whats Wrong With My File
+
 ZCZC W05 100 L02 OS Class
 ZCZC W05 100 L02 OS Class
 ZCZC W05 30 L05 Studying for Quiz
 ZCZC W05 15 L05 Quiz
 ZCZC W05 240 L15 Weekly Assignment #5 with Sorting Memories
 ZCZC W05 120 L01 Pop Quiz
+
 ZCZC W06 1440 L05 Studying for midterms
 ZCZC W06 100 L02 OS Class
 ZCZC W06 100 L02 OS Class
@@ -50,13 +56,21 @@ ZCZC W06 120 L02 Studying for Quiz
 ZCZC W06 10 L02 Quiz
 ZCZC W06 240 L16 Weekly Assignment #6
 ZCZC W06 60 L02 Pop Quiz
+
 ZCZC W07 100 L02 OS Class
 ZCZC W07 240 L17 Weekly Assignment #7
 ZCZC W07 60 L05 Pop Quiz
 ZCZC W07 100 L02 OS Class
+
 ZCZC W08 100 L02 OS Class
 ZCZC W08 120 L05 Studying For Quiz
 ZCZC W08 10 L05 Quiz
 ZCZC W08 100 L02 OS Class
 ZCZC W08 420 L18 Weekly Assignment #8
 ZCZC W08 30 L05 Pop Quiz
+
+ZCZC W09 200 L02 OS Class
+ZCZC W09 120 L05 Studying for Quiz
+ZCZC W09 10 L05 Quiz
+ZCZC W09 420 L19 Weekly Assignment #9
+ZCZC W09 30 L05 Pop Quiz
