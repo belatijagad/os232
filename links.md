@@ -61,5 +61,8 @@ Step by step detailed video guide on how to do the LFS assignment.
 * [9. Chapter 7: Entering Chroot and Building Additional Temporary Tools - How to build Linux From Scra](https://www.youtube.com/watch?v=y8uAMEK0FVc)
 Step by step detailed video guide on how to do the LFS assignment.
 
+* [10. Chapter 8: 8.1 to 8.5 Installing Basic System Software - How to build Linux From Scratch (LFS) 1](https://www.youtube.com/watch?v=WXAV29qd6VI)
+Step by step detailed video guide on how to do the LFS assignmnet.
+
 <br>
 <hr>

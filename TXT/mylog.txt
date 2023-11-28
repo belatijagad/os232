@@ -74,3 +74,9 @@ ZCZC W09 120 L05 Studying for Quiz
 ZCZC W09 10 L05 Quiz
 ZCZC W09 420 L19 Weekly Assignment #9
 ZCZC W09 30 L05 Pop Quiz
+
+ZCZC W10 200 L02 OS Class
+ZCZC W10 600 L20 Weekly Assignment #10
+ZCZC W10 30 L05 Pop Quiz
+ZCZC W10 120 L05 Studying for Quiz
+ZCZC W10 10 L05 Quiz
